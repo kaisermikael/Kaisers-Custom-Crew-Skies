@@ -9,7 +9,7 @@ INSTALL DIRECTIONS:
 -Go to Resource Packs
 -Click "Open resource pack folder"
 -Copy/Paste the entire pack ZIP folder into this folder
+-(Most people have to then unzip the resource pack's inner folder into Minecraft's resource pack folder).
 -Select the pack in Minecraft
--If this doesn't work, try unzipping the file into the same resource pack folder
 
 DM Me on discord with any questions!
