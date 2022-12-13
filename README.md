@@ -3,7 +3,7 @@ For the crewwww
 
 Custom skies and item textures available for Forge and **Fabric**!! A repository for any Crew fans that want a Crew-themed Resource Pack! The latest version has (in my opinion) the best and most updated textures/sounds.
 
-<img src="/.github/img/smiler_moon.webp" width=33% height=33% alt="Smiler Moon"> <img src="/.github/img/mrmegan_ghast.webp" width=33% height=33% alt="Mr. Megan Ghast"> <img src="/.github/img/item_showcase.webp" width=33% height=33% alt="Custom Texture Showcase">
+<img src="/.github/img/smiler_moon.webp" width=30% height=30% alt="Smiler Moon"> <img src="/.github/img/mrmegan_ghast.webp" width=30% height=30% alt="Mr. Megan Ghast"> <img src="/.github/img/item_showcase.webp" width=30% height=30% alt="Custom Texture Showcase">
 
 ## Installation
 
