@@ -8,7 +8,7 @@ Custom skies and item textures available for Forge and **Fabric**!! A repository
 ## Installation
 
 ### Resource Pack
-Download the [latest pack]() (NOT Source code) from the Releases Page.
+Download the pack (NOT Source code) from the [Releases Page](https://github.com/kaisermikael/Kaisers-Custom-Crew-Skies/releases).
 - Open Minecraft.
 - Go to Options > Resource Packs.
 - Click "Open resource pack folder".
@@ -45,7 +45,7 @@ Additionally, install [Indium](https://modrinth.com/mod/indium) if you play with
 ---
 
 ## Issues
-If you are experiencing a yike, submit a report in the [Issues]() tab with as much detail as possible.
+If you are experiencing a yike, submit a report in the [Issues](https://github.com/kaisermikael/Kaisers-Custom-Crew-Skies/issues) tab with as much detail as possible.
 
 ## Changelog
 [Here](/CHANGELOG.md).
