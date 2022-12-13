@@ -47,4 +47,7 @@ Additionally, install [Indium](https://modrinth.com/mod/indium) if you play with
 ## Issues
 If you are experiencing a yike, submit a report in the [Issues]() tab with as much detail as possible.
 
+## Changelog
+[Here](/CHANGELOG.md).
+
  [^lambdaurora]: https://lambdaurora.dev/optifine_alternatives/
