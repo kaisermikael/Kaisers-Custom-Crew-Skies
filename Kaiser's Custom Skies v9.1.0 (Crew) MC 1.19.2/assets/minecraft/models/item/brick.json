@@ -1,0 +1,22 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/brick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":69420}, "model": "item/iphones/iphone13"},
+    	{"predicate": {"custom_model_data":69421}, "model": "item/iphones/iphone12"},
+    	{"predicate": {"custom_model_data":69422}, "model": "item/iphones/iphone11"},
+		{"predicate": {"custom_model_data":69423}, "model": "item/iphones/iphone10"},
+		{"predicate": {"custom_model_data":69424}, "model": "item/iphones/iphone9"},
+		{"predicate": {"custom_model_data":69425}, "model": "item/iphones/iphone8"},
+		{"predicate": {"custom_model_data":69426}, "model": "item/iphones/iphone7"},
+		{"predicate": {"custom_model_data":69427}, "model": "item/iphones/iphone6"},
+		{"predicate": {"custom_model_data":69428}, "model": "item/iphones/iphone5"},
+		{"predicate": {"custom_model_data":69429}, "model": "item/iphones/iphone4"},
+		{"predicate": {"custom_model_data":69430}, "model": "item/iphones/iphone3"},
+		{"predicate": {"custom_model_data":69431}, "model": "item/iphones/iphone2"},
+		{"predicate": {"custom_model_data":69432}, "model": "item/iphones/iphone1"}
+	]
+}

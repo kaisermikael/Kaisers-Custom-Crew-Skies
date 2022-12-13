@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/iron_ingot"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":69433}, "model": "item/ipads/ipad1"},
+		{"predicate": {"custom_model_data":69434}, "model": "item/ipads/ipad2"},
+		{"predicate": {"custom_model_data":69435}, "model": "item/ipads/ipad3"}
+	]
+}
