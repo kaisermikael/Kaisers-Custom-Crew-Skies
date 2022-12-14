@@ -3,7 +3,7 @@ For the crewwww
 
 A repository for any Crew fans that want a Crew-themed Resource Pack! The latest version has the (in my opinion) best and most updated textures/ sounds.
 
-INSTALL DIRECTIONS:
+INSTALL DIRECTIONS:<br />
 -Open Minecraft<br />
 -Go to Options<br />
 -Go to Resource Packs<br />
