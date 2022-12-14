@@ -1,0 +1,40 @@
+- Refactored
+- Reformatted & simplified Repo structure
+- Updated to Minecraft 1.19
+- Create README.md
+- Fixed 8.0 Upload
+- Fixed uploads
+- V8.0 - THE MERGE
+- V7.3 Omg it IS!
+- Uploaded Version 7.2
+- Update README.md
+- Merge branch 'main' of https://github.com/kaisermikael/Kaisers-Custom-Crew-Skies
+- V7.1
+- Reformatting 7.1
+- V7.1
+- Reorganized Pack Layout Structure
+- Delete V7
+- Create V7
+- Delete V7
+- Created V7 Folder
+- Delete (V5 for Side) Refined Kaiser's Custom Skies.zip
+- Delete (V5) Refined Kaiser's Custom Skies.zip
+- Delete (V4) Refined Kaiser's Custom Skies.zip
+- Delete (V3)Kaiser's Custom Skies.zip
+- V7 for Minecraft 1.8.1
+- Delete (Vanilla+ V1) Kaiser's Custom Skies.zip
+- (V6.4 1.18.1 for Side) Kaiser's Custom Skies
+- (V6.4 1.18.1 for CREW) Kaiser's Custom Skies
+- 6.3 for 1.8.1
+- 6.2 for 1.8.1
+- 6.1 Update
+- V6.1 Update
+- V6 for 1.18
+- V5 1.16.5 For Side
+- Side Version
+- Added 1.17
+- Add files via upload
+- Update README.md
+- Create README.md
+- Add files via upload
+- Add files via upload
