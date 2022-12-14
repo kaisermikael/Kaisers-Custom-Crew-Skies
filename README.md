@@ -3,7 +3,7 @@ For the crewwww
 
 A repository for any Crew fans that want a Crew-themed Resource Pack! The latest version has the best and most updated textures/ sounds.<br />
 
-###$ NOTE: The custom moons work with ALL Minecraft installations. The custom skies and constellations currently ONLY work on an Optifine installation.
+#### NOTE: The custom moons work with ALL Minecraft installations. The custom skies and constellations currently ONLY work on an Optifine installation.
 
 ## DOWNLOAD DIRECTIONS:
 - Click green **" <> CODE"** button in top right corner.<br />
