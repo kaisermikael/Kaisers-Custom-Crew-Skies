@@ -16,6 +16,7 @@ A repository for any Crew fans that want a Crew-themed Resource Pack! The latest
 - Go to Resource Packs<br />
 - Click "Open resource pack folder"<br />
 - Open the downloaded ZIP folder. <br />
+- Enter the only folder.
 - Copy/Paste one or both of the pack folders from the ZIP folder into the resourcepacks folder.<br />
 - Select the pack in Minecraft. Voila.<br />
 
